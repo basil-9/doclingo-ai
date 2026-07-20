@@ -1,0 +1,18 @@
+{
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vite": "latest",
+    "pdf-lib": "latest",
+    "pdfjs-dist": "latest",
+    "tesseract.js": "latest",
+    "jspdf": "latest",
+    "docx": "latest",
+    "file-saver": "latest",
+    "@supabase/supabase-js": "latest",
+    "html2pdf.js": "latest"
+  }
+}
